@@ -1,0 +1,4 @@
+/compaction-check
+*.test
+*.out
+.DS_Store
